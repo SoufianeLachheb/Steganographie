@@ -2,6 +2,9 @@
 
 La stéganographie est l'art de cacher des informations dans des images, des vidéos ou d'autres types de fichiers de manière discrète, de sorte qu'elles ne soient pas détectables par des personnes non autorisées. Un projet de stéganographie en Python pourrait inclure les éléments suivants:
 
+![image](https://user-images.githubusercontent.com/121266382/213022184-a3ce7b3b-07e5-48d1-8c0a-7bdfeb764dca.png)
+
+
 Une interface utilisateur pour importer une image ou une vidéo et saisir un message à cacher
 Une fonction pour coder le message en utilisant une technique de stéganographie, comme la modification de bits de données de l'image ou de la vidéo
 Une fonction pour décoder le message caché en retrouvant les bits modifiés
